@@ -56,6 +56,12 @@ The app is deployed using **Streamlit Cloud**, and provides a simple, interactiv
 4. All numerical and categorical inputs are handled properly with conversions.
 
 ---
+## 🔗 Live Demo
+
+Click the link below to access the deployed ML Models Web App:
+
+👉 [Open App on Streamlit](https://mlmodelswebapp2-sk4tntsrva88mbukrdpgqx.streamlit.app/)
+
 
 ## 📦 Dependencies
 
@@ -69,7 +75,5 @@ pickle
 scikit-learn
 xgboost
 streamlit-option-menu
-## 🔗 Live App
 
-👉 [Click here to access the deployed ML Models Web App](https://mlmodelswebapp2-sk4tntsrva88mbukrdpgqx.streamlit.app/)
 
